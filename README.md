@@ -1,33 +1,29 @@
 # react-native-snap-carousel
 
 ![platforms](https://img.shields.io/badge/platforms-Android%20%7C%20iOS-brightgreen.svg?style=flat-square&colorB=191A17)
-[![npm](https://img.shields.io/npm/v/react-native-snap-carousel.svg?style=flat-square)](https://www.npmjs.com/package/react-native-snap-carousel)
-[![npm](https://img.shields.io/npm/dm/react-native-snap-carousel.svg?style=flat-square&colorB=007ec6)](https://www.npmjs.com/package/react-native-snap-carousel)
+[![npm](https://img.shields.io/npm/v/react-native-snap-carousel.svg?style=flat-square)](https://www.npmjs.com/package/@ontech7/react-native-snap-carousel)
+[![npm](https://img.shields.io/npm/dm/react-native-snap-carousel.svg?style=flat-square&colorB=007ec6)](https://www.npmjs.com/package/@ontech7/react-native-snap-carousel)
 
-<!-- [![github release](https://img.shields.io/github/release/meliorence/react-native-snap-carousel.svg?style=flat-square)](https://github.com/meliorence/react-native-snap-carousel/releases) -->
-
-[![github issues](https://img.shields.io/github/issues/meliorence/react-native-snap-carousel.svg?style=flat-square)](https://github.com/meliorence/react-native-snap-carousel/issues)
-[![github closed issues](https://img.shields.io/github/issues-closed/meliorence/react-native-snap-carousel.svg?style=flat-square&colorB=44cc11)](https://github.com/meliorence/react-native-snap-carousel/issues?q=is%3Aissue+is%3Aclosed)
-[![Issue Stats](https://img.shields.io/issuestats/i/github/meliorence/react-native-snap-carousel.svg?style=flat-square&colorB=44cc11)](http://github.com/meliorence/react-native-snap-carousel/issues)
+refer to [original](https://www.npmjs.com/package/react-native-snap-carousel)
 
 ---
 
 ---
 
-## Compatible with Expo SDK 3 (v3.9.2 fix)
+## Compatible with Expo SDK 53 (v3.9.2 fix)
 
 - Fix `ViewPropTypes` (deprecated) and props spread on `Carousel` item component
 
 To add this package to your project, just do:
 
 ```bash
-npm install github:ontech7/react-native-snap-carousel
+npm install @ontech7/react-native-snap-carousel
 # or
-yarn add github:ontech7/react-native-snap-carousel
+yarn add @ontech7/react-native-snap-carousel
 # or
-pnpm add github:ontech7/react-native-snap-carousel
+pnpm add @ontech7/react-native-snap-carousel
 # or
-bun add github:ontech7/react-native-snap-carousel
+bun add @ontech7/react-native-snap-carousel
 ```
 
 ---

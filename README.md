@@ -18,6 +18,18 @@
 
 - Fix `ViewPropTypes` (deprecated) and props spread on `Carousel` item component
 
+To add this package to your project, just do:
+
+```bash
+npm install github:ontech7/react-native-snap-carousel
+# or
+yarn add github:ontech7/react-native-snap-carousel
+# or
+pnpm add github:ontech7/react-native-snap-carousel
+# or
+bun add github:ontech7/react-native-snap-carousel
+```
+
 ---
 
 ---

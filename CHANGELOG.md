@@ -1,3 +1,7 @@
+# v3.9.4
+
+- Update README
+
 # v3.9.2
 
 - Fix `ViewPropTypes` (deprecated) and props spread on `Carousel` item component
